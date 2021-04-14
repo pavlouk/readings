@@ -22,3 +22,31 @@ Useful day-to-day programming reminders
     * Django
 
 3. [Regular Expressions Cheatsheet](https://github.com/ploukareas/dotfiles/blob/main/regex.md)
+
+4. [Python Functions Cheatsheet](https://github.com/ploukareas/dotfiles/blob/main/functions.md)
+    * Functions as Objects
+    * Lambda Functions
+    * Closures
+    * \*args, \*\*kwargs
+    * Currying
+    * Generators
+    * Generator Expressions
+    * itertools
+
+5. [Python Logging Utilities](https://github.com/ploukareas/dotfiles/blob/main/logs.md)
+    * Logging with RotatingFileHandler
+    * Logging with TimedRotatingFileHandler 
+
+6. [Python Structure Utilities](https://github.com/ploukareas/dotfiles/blob/main/structs_utils.md)
+    * slice
+    * range and xrange
+    * bisect
+    * sort
+    * sorted
+    * reversed
+    * enumerate
+    * zip
+    * list comprehensions
+
+7. [Python Unit Tests](https://github.com/ploukareas/dotfiles/blob/main/unit_tests.md)
+    * Unit tests using the Nose module
