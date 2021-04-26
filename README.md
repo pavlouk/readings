@@ -61,3 +61,19 @@ Useful day-to-day programming reminders
 
 9. [Gitmoji Commit Preamble Emojis ](https://github.com/ploukareas/dotfiles/blob/main/gitmoji.md)
     * Emojis and Commit Types
+
+10. [Machine Learning Algorithms](https://github.com/ploukareas/dotfiles/blob/main/ml_algos.md)
+    1. CLUSTERING
+    2. DIMENSIONALITY REDUCTION 
+    3. REGRESSION
+    4. DECISION TREE
+    5. BAYESIAN
+    6. REINFORCEMENT LEARNING
+    7. REGULARIZATION
+    8. ENSEMBLE
+    9. ANNs
+    10. ARL
+    11. INSTANCE BASED
+    12. DEEP LEARNING
+    13. RULE SYSTEM
+    14. OTHER ALGORITHMS
