@@ -58,3 +58,6 @@ Useful day-to-day programming reminders
     * Searching
     * Marks & Macros
     * Various Motions
+
+9. [Gitmoji Commit Preamble Emojis ](https://github.com/ploukareas/dotfiles/blob/main/gitmoji.md)
+    * Emojis and Commit Types
