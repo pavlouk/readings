@@ -50,3 +50,11 @@ Useful day-to-day programming reminders
 
 7. [Python Unit Tests](https://github.com/ploukareas/dotfiles/blob/main/unit_tests.md)
     * Unit tests using the Nose module
+
+8. [Vim Key Bindings](https://github.com/ploukareas/dotfiles/blob/main/vim.md)
+    * Basic Editing
+    * Operators & Repetition
+    * Yank & Paste
+    * Searching
+    * Marks & Macros
+    * Various Motions
