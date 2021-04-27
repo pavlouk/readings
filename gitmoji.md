@@ -1,4 +1,4 @@
-| Emoji | :code: | Commit Type Preamble | :code: | description | 
+| Emoji | :code: | Commit Type Preamble | :code: | 
 |-----|-----------------------------|---------------------------------------------------------------|---------------------------|
 | 🎨  | :art:                       | Improve structure / format of the code.                       | art                       |
 | ⚡️  | :zap:                       | Improve performance.                                          | zap                       |
